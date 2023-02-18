@@ -11,7 +11,7 @@ export default {
     const router = useRouter();
     const user = {
       email: "emidesouches@gmail.com",
-      pass: "Delaflorsolar123'",
+      pass: "emidesouches",
     };
     const submit = () => {
       var userEmail = document.getElementById("email"),
